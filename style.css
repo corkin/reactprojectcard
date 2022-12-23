@@ -10,7 +10,7 @@ body{
     max-width: 250px;
     margin: 0 auto;
 }
-.info.img-container{
+.info .img-container{
     width: 300px;
     height: 300px;
 }
