@@ -4,7 +4,7 @@ import App from "./App"
 
 function Card(){
     return (
-        <div className="container">
+        <div className="container test-push">
            <App />
         </div>
     )
